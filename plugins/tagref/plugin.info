@@ -1,0 +1,10 @@
+{
+    "title": "$:/plugins/pagdot/tagref",
+    "description": "Reference all Tiddlers tagging this tiddler",
+    "author": "Pagdot",
+    "version": "1.0.0",
+    "core-version": ">=5.0.8",
+    "source": "https://github.com/pagdot/TW5-TagRef",
+	"list": "readme",
+    "plugin-type": "plugin"
+}

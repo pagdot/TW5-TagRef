@@ -1,4 +1,5 @@
-# TW5-TagRef
+title: $:/plugins/pagdot/tagref/readme
+type: text/vnd.tiddlywiki
 
 Adds a table of all tiddlers tagging this tiddler at the bottom of the tiddler for all tiddlers.
 Tiddlers can be excluded by setting the field `notaglinks` to `true`.

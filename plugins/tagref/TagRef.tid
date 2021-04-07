@@ -1,0 +1,9 @@
+title: $:/plugins/pagdot/tagref/TagRef
+author: Pagdot
+tags:  $:/tags/ViewTemplate 
+
+<$reveal type="nomatch" state="!!notaglinks" text="true">
+
+<div class="tc-table-of-contents">
+<$macrocall $name="toc-selective-expandable" tag=<<currentTiddler>>/>
+</div>
